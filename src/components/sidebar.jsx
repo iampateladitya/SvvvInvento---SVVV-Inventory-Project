@@ -68,7 +68,7 @@ const Sidebar = () => {
             <div className="profile-dropdown">
               <ul>
                 <li>
-                  <Link to="/">About Us</Link>
+                  <Link to="/aboutus">About Us</Link>
                 </li>
                 <li>
                   <Link to="/">Support</Link>
